@@ -1,4 +1,4 @@
 # shrutinangare-demo
 This is my first git repository.
 <br>
-Author - Shruti Nangare
+Author - Shruti Nangare (SHN)
